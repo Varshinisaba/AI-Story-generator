@@ -28,10 +28,10 @@ Users can enter a story prompt and choose from different genres to generate imag
 ## 🛠️ Tech Stack
 
 | Component      | Tool / Library               |
-| Language Model | [GPT-2](https://huggingface.co/gpt2) via HuggingFace Transformers 
-| Interface      | [Streamlit](https://streamlit.io/)
-| Language       | Python                       
-
+|----------------|------------------------------|
+| Language Model | [GPT-2](https://huggingface.co/gpt2) via HuggingFace Transformers |
+| Interface      | [Streamlit](https://streamlit.io/) |
+| Language       | Python                       |
 ---
 
 ## 📸 Screenshot
@@ -43,10 +43,3 @@ Users can enter a story prompt and choose from different genres to generate imag
 
 ---
 
-## 📂 Project Structure
-
-ai-story-generator/
-├── app.py # Main Streamlit app
-├── story_generator.py # Text generation logic using GPT-2
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
